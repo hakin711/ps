@@ -1,0 +1,5 @@
+$ d:
+$ cd g_code
+$ git remote add origin https://github.com/hakin711/ps.git
+$ git push -u origin master
+$ git commit -m "first commit"
